@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:buster
 # replace ^ with below for raspberry pi
 #FROM resin/rpi-raspbian:jessie
 
